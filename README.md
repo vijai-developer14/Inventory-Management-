@@ -1,4 +1,4 @@
-# Inventory Management Promotion Website.
+# Inventory Management  Website.
 
 ## Overview:
 
